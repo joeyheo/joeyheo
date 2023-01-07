@@ -8,7 +8,7 @@ Hi. My name is Joey, and I'm an undergraduate student at __ University studying 
 # I have experience with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,css,c++,electron,express,react,firebase,github,java,js,nodejs,netlify,processing,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,css,electron,express,react,firebase,github,java,js,nodejs,netlify,processing,ts,vscode" />
   </a>
 </p>
 
