@@ -3,7 +3,7 @@ joeyheo/joeyheo is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # Welcome to my GitHub
-Hi. My name is Joey, and I'm an undergraduate student at __ University studying Computer Science. I'm interested in pursuing a career in Software Engineering, and Aerospace Engineering. Please feel free to reach out to me at heojoey2004@gmail.com.
+Hi. My name is Joey, and I'm an undergraduate student at __ University studying Computer Science. I'm interested in pursuing a career in Software Engineering and Aerospace Engineering. Please feel free to reach out to me at heojoey2004@gmail.com.
 
 # I have experience with
 <p align="center">
