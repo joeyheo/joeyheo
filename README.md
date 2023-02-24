@@ -15,7 +15,7 @@ Hi. My name is Joey, and I'm an undergraduate student at __ University studying 
 # Learn more about me
 - Email: heojoey2004@gmail.com
 - Social Media: [LinkedIn](https://www.linkedin.com/in/sunghyun-joey-heo-b6b92a1b3/), [Instagram](https://www.instagram.com/joey.heo/)
-- Personal Website: [www.joeyheo.com](https://www.joeyheo.com)
+- Personal Website: [www.joeyheo.xyz](https://www.joeyheo.xyz)
 
 # My progress
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyheo&layout=compact"><br><br>
