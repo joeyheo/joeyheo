@@ -3,7 +3,7 @@ joeyheo/joeyheo is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # Welcome to my GitHub
-Hi. My name is Joey, and I'm an undergraduate student at University of California, Santa Cruz studying Computer Engineering. I'm interested in pursuing a career in Software Engineering and Aerospace Engineering. Please feel free to reach out to me at sheo2@ucsc.edu.
+Hi. My name is Joey, and I'm an undergraduate student at University of California, Santa Cruz studying Computer Engineering. I'm interested in pursuing a career in Software Engineering. Please feel free to reach out to me at sheo2@ucsc.edu.
 
 # I have experience with
 <p align="center">
