@@ -14,7 +14,7 @@ Hi. My name is Joey, and I'm an undergraduate student at University of Californi
 
 # Learn more about me
 - Email: sheo2@ucsc.edu
-- Social Media: [LinkedIn](https://www.linkedin.com/in/sunghyun-joey-heo-b6b92a1b3/), [Instagram](https://www.instagram.com/joey.heo/)
+- Social Media: [LinkedIn](https://www.linkedin.com/in/sunghyun-joey-heo-b6b92a1b3/)
 - Personal Website: [www.joeyheo.xyz](https://www.joeyheo.xyz)
 
 # My progress
